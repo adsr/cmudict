@@ -1,0 +1,4 @@
+cmudict
+=======
+
+fork of cmudict
